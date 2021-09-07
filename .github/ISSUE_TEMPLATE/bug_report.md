@@ -1,17 +1,19 @@
 ---
-name: Bug
-about: バグ報告隊
+name: Bug report
+about: Any problems..?
 title: ""
-labels: bug, Needs Triage
+labels: bug
 assignees: ""
 ---
 
-## 概要
+## Description
 
-## 再現手順
+Write problems, causes,...
 
-## 修正しないとどう困るか
+## Reproduction
 
-## 原因
+How reproduce this bug.
 
-## 修正案
+## How to fix
+
+If you have any idea:)

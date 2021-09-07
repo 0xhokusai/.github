@@ -1,20 +1,15 @@
-## 関連リンク(Slack, Notion)や GitHub Issue
+## Related link (GitHub Issue, Slack, Notion...)
 
-- resolve link
-  （と link の所に GitHub Issue のリンクを置くと、自動で issue と紐づけてくれます）
+## Changes
 
-## やったこと
+Describe changes.
 
-このプルリクで何をしたのか？
+## Not yet
 
-## やらないこと
+If there is, "None" is OK. If not, specify write to do it.
 
-このプルリクでやらないことは何か？（あれば。無いなら「無し」で OK）（やらない場合は、いつやるのかを明記する。）
+## Instructions for reviewer
 
-## 動作確認
+How to test, How to run, etc...
 
-レビュワーが動作確認しやすいように、実装した時の再現方法を共有してみましょう
-
-## その他
-
-レビュワーへの参考情報（実装上の懸念点や注意点などあれば記載）
+## Others

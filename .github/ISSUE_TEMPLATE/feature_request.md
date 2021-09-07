@@ -1,15 +1,13 @@
 ---
 name: Feature request
-about: もっとこうした方が良いじゃん？
+about: I want it I want it!
 title: ""
-labels: feature request
+labels: feat
 assignees: ""
 ---
 
-## 概要
+## Description
 
-## 目的
+## How to impliment
 
-## 提案内容
-
-## タスク
+If you have any idea:)
